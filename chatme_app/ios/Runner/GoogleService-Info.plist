@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>174362410388-038eldhgdug88uctovaioson9d15fobp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.174362410388-038eldhgdug88uctovaioson9d15fobp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3i79d1X7okWRZYUePk4UolMOCYCC1cEc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>174362410388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.proacademy.dude</string>
+	<key>PROJECT_ID</key>
+	<string>chatme-app-c85fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatme-app-c85fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:174362410388:ios:083bfe312eee00ed5a6381</string>
+</dict>
+</plist>

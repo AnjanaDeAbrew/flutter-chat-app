@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "174362410388",
+    "project_id": "chatme-app-c85fc",
+    "storage_bucket": "chatme-app-c85fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174362410388:android:5c5f2e6e674119a85a6381",
+        "android_client_info": {
+          "package_name": "com.chatme.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174362410388-fv1q6q6h9lfqeeamjlrnp8sttvqe4s71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatme.chatme",
+            "certificate_hash": "7622bf0fbd730ed327d96e08973cd06051ac5d0c"
+          }
+        },
+        {
+          "client_id": "174362410388-4e153pbp8e999hj328d7bi2n4a14j4rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dPthaI37E1dPoNaRHqCQEnsZ4sm8yG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174362410388-4e153pbp8e999hj328d7bi2n4a14j4rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174362410388-038eldhgdug88uctovaioson9d15fobp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proacademy.dude"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
